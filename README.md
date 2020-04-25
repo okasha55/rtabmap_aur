@@ -1,1 +1,1 @@
-RtabMAP for ROS-melodic Archlinux version
+RTABmap for ROS-melodic Archlinux version
